@@ -1,0 +1,233 @@
+{
+    "artiste1": { 
+
+        "idart": "1",
+        "nom" : "Miley Cyrus",
+        "titre": "Miley Cyrus au Sportpaleis",
+        "date": "20 Juin 2014",
+        "heure": "19:00 - 23:00",
+        "partie": "Sky Ferreira",
+        "tickets": "http://www.teleticketservice.com/tts/fr/reservation/14_05_04/19_00/miley_cyrus_bangerz_tour_2014",
+        "tournee": "Bangerz Tour 2014",
+        "site": "http://www.mileycyrus.com/",
+
+        "categorie1": "Catégorie 1 - 49€",
+        "categorie1detail": "Debout, 1er & 2ème étage",
+
+        "categorie2": "Catégorie 2 - 54€",
+        "categorie2detail": "Places assises numérotées dans les tribunes supérieures",
+
+        "categorie3": "Catégorie 3 - 59€",
+        "categorie3detail": "Places assises numérotées dans les tribunes basses",
+
+        "categorie4": "Catégorie Arena - 59€",
+        "categorie4detail": "Places debout dans la middenplein",
+
+        "categorie5": "We can't stop hot tickets package - 157€",
+        "categorie5detail": "Places assises numérotées dans les tribunes basses",
+        "categorie5pack": "+ Tour gift + Stratifié commémoratif",
+
+        "categorie6": "Hands in the air early entry package - 162€",
+        "categorie6detail": "Places debout dans le middenplein",
+        "categorie6pack": "+ Droit d'entrée 30min avant + Tour gift + Stratifié commémoratif",
+
+        "picresult": "mileyresult.jpg",
+
+        "artistpic": "miley1.jpg",
+        "artistpic1": "miley2.jpg",
+        "artistpic2": "miley3.jpg",
+        "artistpic3": "miley4.jpg",
+
+        "merch1": "book.jpg",
+        "merch2": "bag.jpg",
+        "merch3": "weed.jpg",
+        "merch4": "shirt.jpg",
+        "merch5": "legging.jpg",
+        "merch6": "key.jpg",
+
+        "objet1": "Le Bangerz book",
+        "objet1prix": "18€",
+        "objet2": "Panoplie de sacs",
+       "objet2prix": "25€",
+        "objet3":"Feuilles à rouler",
+       "objet3prix":"6€",
+        "objet4": "Panoplie de t-shirts ",
+       "objet4prix": "30€",
+        "objet5": "Leggings",
+       "objet5prix": "35€",
+        "objet6": "Porte-clés",
+       "objet6prix": "10€"
+
+
+    },
+
+    "artiste2": { 
+
+        "idart": "2",
+        "nom" : "Bryan Adams",
+        "titre": "Bryan Adams au Sportpaleis",
+        "date": "01 Août 2014 ",
+        "heure": "20:00 - 22:30",
+        "partie": "Pas de première partie",
+        "tickets": "http://www.sherpa.be/frBE/Musique/Pop-Rock/Bryan-Adams/",
+        "tournee": "Bare Bones Tour ",
+        "site": "http://www.bryanadams.com/",
+
+        "categorie1": "Catégorie 1 - 58€",
+        "categorie1detail": "Places debout dans la middenplein",
+        "categorie2":"Catégorie 2 - 78€",
+        "categorie2detail": "Places assises numérotées dans les tribunes supérieures",
+        "categorie3":"Catégorie 3 - 88€",
+        "categorie3detail": "Places assises numérotées dans les tribunes basses",
+        "categorie4": "",
+        "categorie4detail": "",
+        "categorie5": "",
+        "categorie5detail": "",
+        "categorie5pack": "",
+        "categorie6": "",
+        "categorie6detail": "",
+        "categorie6pack": "",
+
+         "picresult": "bryanresult.jpg",
+
+        "artistpic": "bryan.jpg",
+        "artistpic1": "bryan1.jpg",
+        "artistpic2": "bryan2.jpg",
+        "artistpic3": "bryan3.jpg",
+
+        "merch1": "shirt_bryan.jpg",
+        "merch2": "shirt_bryan2.jpg",
+        "merch3": "book_bryan2.jpg",
+        "merch4": "book_bryan.jpg",
+        "merch5": "iphone.jpg",
+        "merch6": "key_bryan.jpg",
+
+        "objet1": "T-shirt de la tournée",
+        "objet1prix": "32€",
+        "objet2": "T-shirt",
+       "objet2prix": "25€",
+        "objet3":"Bare bones tour book",
+       "objet3prix":"15€",
+        "objet4": "Bryan Adams exposed, book",
+       "objet4prix": "60€",
+        "objet5": "Coque Iphone",
+       "objet5prix": "25€",
+        "objet6": "Porte-clés",
+       "objet6prix": "8€"
+
+    },
+
+     "artiste3": { 
+
+        "idart": "3",
+        "nom" : "Lady Gaga",
+        "titre": "Lady Gaga au Sportpaleis",
+        "date": "23 Sept 2014 ",
+        "heure": "20:30 - 23:00",
+        "partie": "Pas de première partie",
+        "tickets": "http://www.teleticketservice.com/tts/fr/reservation/14_09_23/19_30/lady_gagas_artrave_the_artpop_ball",
+        "tournee": "The ARTPOP Ball",
+        "site": "http://www.ladygaga.com/artrave-the-artpop-ball",
+
+        "categorie1": "Catégorie 1 - 39,50€",
+        "categorie1detail": "Places debout dans les tribunes basses et hautes",
+        "categorie2":"Catégorie 2 - 59,50€",
+        "categorie2detail": "Places assises numérotées dans les tribunes supérieures",
+        "categorie3":"Catégorie 3 - 79,50€",
+        "categorie3detail": "Places assises numérotées dans les tribunes basses",
+        "categorie4": "Catégorie 4 - 79,50€",
+        "categorie4detail": "Places debout dans la Middenplein",
+        "categorie5": "Catégorie 5 - 99,50€",
+        "categorie5detail": "Places assises numérotées dans les tribunes basses",
+        "categorie5pack": "",
+        "categorie6": "Early entry package - 187,50€",
+        "categorie6detail": "Places debout dans le middenplein",
+        "categorie6pack": "+ Droit d'entrée 30min avant + Tour gift",
+
+         "picresult": "gagaresult.jpg",
+
+        "artistpic": "gaga.jpg",
+        "artistpic1": "gaga1.jpg",
+        "artistpic2": "gaga2.jpg",
+        "artistpic3": "gaga3.jpg",
+
+        "merch1": "shirt_gaga2.jpg",
+        "merch2": "book_gaga.jpg",
+        "merch3": "box_gaga.jpg",
+        "merch4": "shirt_gaga.jpg",
+        "merch5": "pins_gaga.jpg",
+        "merch6": "poster_gaga.jpg",
+
+        "objet1": "T-shirt ARTPOP",
+        "objet1prix": "30€",
+        "objet2": "Gaga Book",
+       "objet2prix": "20€",
+        "objet3":"Boites à tartines",
+       "objet3prix":"35€",
+        "objet4": "T-shirt de la tournée",
+       "objet4prix": "35€",
+        "objet5": "Pins",
+       "objet5prix": "12€",
+        "objet6": "Poster",
+       "objet6prix": "20€"
+
+    },
+
+    "artiste4": { 
+
+        "idart": "4",
+        "nom" : "Pharell Williams",
+        "titre": "Pharell Williams au Sportpaleis",
+        "date": "24 Sept 2014 ",
+        "heure": "20:30 - 23:00",
+        "partie": "Pas de première partie",
+        "tickets": "http://www.teleticketservice.com/tts/fr/reservation/14_09_24/20_30/pharrell_williams_the_dear_g_i_r_l_tour",
+        "tournee": "The Dear G I R L Tour",
+        "site": "http://pharrellwilliams.com/",
+
+        "categorie1": "Catégorie 1 - 39€",
+        "categorie1detail": "Places debout dans les tribunes basses et hautes",
+        "categorie2":"Catégorie 2 - 43€",
+        "categorie2detail": "Places assises numérotées dans les tribunes supérieures",
+        "categorie3":"Catégorie 3 - 47€",
+        "categorie3detail": "Places assises numérotées dans les tribunes basses",
+        "categorie4": "Catégorie 4 - 47€",
+        "categorie4detail": "Places debout dans la Middenplein",
+        "categorie5": "Catégorie 5 - 51€",
+        "categorie5detail": "Places assises numérotées dans les tribunes basses",
+        "categorie5pack": "",
+        "categorie6": "Happy Hot Ticket Package - 148,50€",
+        "categorie6detail": "Places debout dans le middenplein",
+        "categorie6pack": "+ Tour gift + stratifié commémoratif + accès VIP",
+
+         "picresult": "pharrellresult.jpg",
+
+        "artistpic": "pharell.jpg",
+        "artistpic1": "pharell1.jpg",
+        "artistpic2": "pharell2.jpg",
+        "artistpic3": "pharell3.jpg",
+
+        "merch1": "poster_pharrell.jpg",
+        "merch2": "book_pharrell.jpg",
+        "merch3": "pull_pharrell.jpg",
+        "merch4": "casquette_pharrell.jpg",
+        "merch5": "shirt_pharrell.jpg",
+        "merch6": "shirt_pharrell2.jpg",
+
+        "objet1": "Poster",
+        "objet1prix": "15€",
+        "objet2": "Book",
+       "objet2prix": "35€",
+        "objet3":"Pull",
+       "objet3prix":"60€",
+        "objet4": "Casquette",
+       "objet4prix": "45€",
+        "objet5": "T-shirt",
+       "objet5prix": "30€",
+        "objet6": "T-shirt",
+       "objet6prix": "25€"
+
+    }
+
+
+}
